@@ -1,0 +1,4 @@
+Exercises from the rust book, chapter 8
+=========================================
+
+A simple program to return the median, mean and mode from an arbitary vector.
